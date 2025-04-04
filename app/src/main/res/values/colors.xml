@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAlumno">#025D61</color>
+    <color name="colorProfesor">#5B2251</color>
+    <color name="colorHorario">#4E0C5F</color>
+    <color name="colorPago">#2B1D62</color>
+    <color name="fondoOscuro">#373F90</color>
+    <color name="fondoClaro">#B9CBF8</color>
+    <color name="tex1">#FFFFFF</color>
+
+</resources>
