@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorAlumno">#025D61</color>
-    <color name="colorProfesor">#5B2251</color>
-    <color name="colorHorario">#4E0C5F</color>
-    <color name="colorPago">#2B1D62</color>
-    <color name="fondoOscuro">#373F90</color>
-    <color name="fondoClaro">#B9CBF8</color>
-    <color name="tex1">#FFFFFF</color>
+    <color name="colorAlumnoClaro">#80CBC4</color>
+    <color name="colorAlumno">#80CBC4</color>
+    <color name="colorProfesorClaro">#E799E0</color>
+    <color name="colorProfesor">#E799E0</color>
+    <color name="colorHorarioClaro">#AC8AE6</color>
+    <color name="colorHorario">#AC8AE6</color>
+    <color name="colorPagoClaro">#6DB8F4</color>
+    <color name="colorPago">#6DB8F4</color>
+    <color name="fondoOscuro">#42A5F5</color>
+    <color name="fondoClaro">#FFFFFF</color>
+    <color name="textoBlanco">#FFFFFF</color>
+    <color name="pantallaPrincipal">#42A5F5</color>
+    <color name="aceptarPago">#00795D</color>
+    <color name="pendiente">#C8437C</color>
+    <color name="pagado">#12A492</color>
+
 
 </resources>

@@ -23,4 +23,13 @@ object GestionPagos
 @Serializable
 object GestionHorarios
 
+@Serializable
+data class AlumnoDetalle(val alumnoId: Long)
+
+@Serializable
+data class ProfesorDetalle(val profesorId: Long)
+
+@Serializable
+data class ClaseDetalle(val claseId: Long)
+
 
